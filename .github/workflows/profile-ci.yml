@@ -1,0 +1,37 @@
+name: Profile CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  profile-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check required files
+        run: |
+          test -f README.md
+          test -f CHANGELOG.md
+
+      - name: Check profile README basics
+        run: |
+          grep -q "ares-public-proof" README.md
+          grep -q "## Safety Boundary" README.md
+          grep -q "## Links" README.md
+
+      - name: Check public-safety guardrails
+        run: |
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "Maximilion" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "Decision OS" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "institutional capital" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "DIFC" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "XAUUSD" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "GBPUSD" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "MT5" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "broker" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "execution details" .
