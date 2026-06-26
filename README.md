@@ -2,21 +2,37 @@
 
 Building a research and execution lab around decision quality, uncertainty, and disciplined software-building.
 
-I use GitHub to show public proof of learning, building, and execution discipline. The public surface is intentionally narrow: it shows how I organize work, write safe notes, test small changes, and improve over time.
+I use GitHub as a public proof surface for learning discipline, documentation discipline, review rhythm, and small safe improvements.
+
+The public surface is intentionally narrow. It shows how work is organized, documented, reviewed, and improved over time without exposing private research or sensitive implementation details.
 
 ## Current Focus
 
 - Decision quality under uncertainty
 - Small reviewable build steps
-- Testing and documentation discipline
-- Safe public proof of learning
-- Careful separation between public notes and deeper research
+- Public proof of learning discipline
+- Documentation and testing discipline
+- Safe separation between public notes and deeper research
 
-## Current Build Rhythm
+## Public Proof
 
-I build in small reviewable work units. Each public-safe step should improve a note, checklist, learning log, quality check, or operating boundary before anything becomes broader or more visible.
+My public proof work is focused on visible execution habits:
 
-Public notes are curated only after safety and scope review.
+- clear issues before work starts
+- focused branches
+- small pull requests
+- high-level notes
+- safety boundaries
+- changelog discipline
+- reviewable documentation improvements
+
+The goal is to show repeatable founder discipline, not broad claims.
+
+## Build Rhythm
+
+I prefer small work units that can be reviewed, improved, and merged safely.
+
+Each public-safe step should improve one narrow artifact: a note, checklist, template, quality check, repository map, or operating boundary.
 
 ## Proof Principles
 
@@ -26,10 +42,10 @@ Public notes are curated only after safety and scope review.
 - Make safety boundaries part of the build process.
 - Treat documentation discipline and testing discipline as public proof assets.
 
-## What This Profile Is About
+## Safety Boundary
 
-This profile is about public proof of learning, founder build rhythm, and disciplined software-building.
+This profile does not publish private architecture, internal naming systems, detailed workflows, sensitive assumptions, private prompts, proprietary methods, performance claims, financial advice claims, or production readiness claims.
 
 ## Links
 
-- [ares-public-proof](https://github.com/ares-yeghiyayan/ares-public-proof)
+- [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
