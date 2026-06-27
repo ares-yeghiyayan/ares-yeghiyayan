@@ -52,5 +52,6 @@ This profile does not publish private architecture, internal naming systems, det
 - [Reading order](READING_ORDER.md)
 - [Proof index](PROOF_INDEX.md)
 - [Profile maintenance](PROFILE_MAINTENANCE.md)
+- [Profile audit](PROFILE_AUDIT.md)
 - [Profile scope](PROFILE_SCOPE.md)
 - [Profile changelog](CHANGELOG.md)

@@ -13,6 +13,7 @@ The profile repository should stay simple and focused on public proof of discipl
 - Added a proof index for profile navigation.
 - Added a reading order note for fast profile review.
 - Added a profile maintenance note.
+- Added a profile audit note.
 
 ## 2026-06-26
 
