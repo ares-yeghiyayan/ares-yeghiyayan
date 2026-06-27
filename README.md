@@ -49,5 +49,6 @@ This profile does not publish private architecture, internal naming systems, det
 ## Links
 
 - [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
+- [Proof index](PROOF_INDEX.md)
 - [Profile scope](PROFILE_SCOPE.md)
 - [Profile changelog](CHANGELOG.md)
