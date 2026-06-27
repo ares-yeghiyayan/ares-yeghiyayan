@@ -2,11 +2,17 @@
 
 This changelog records small, public-safe changes to the GitHub profile repository.
 
-The profile repository should stay simple, high-level, and focused on public proof of disciplined work.
+The profile repository should stay simple and focused on public proof of disciplined work.
 
 ## Unreleased
 
 - Add lightweight profile changelog.
+
+## 2026-06-27
+
+- Added a proof index for profile navigation.
+- Added a reading order note for fast profile review.
+- Added a profile maintenance note.
 
 ## 2026-06-26
 
