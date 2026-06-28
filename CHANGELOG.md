@@ -12,6 +12,7 @@ The profile repository should stay simple and focused on public proof of discipl
 
 - Added a profile daily noise rule to keep the profile repository clean.
 - Recorded the second-round profile maintenance work in the changelog.
+- Recorded the Round 3 profile maintenance pass without adding new profile surface area.
 
 ## 2026-06-27
 
