@@ -8,6 +8,11 @@ The profile repository should stay simple and focused on public proof of discipl
 
 - Add lightweight profile changelog.
 
+## 2026-06-28
+
+- Added a profile daily noise rule to keep the profile repository clean.
+- Recorded the second-round profile maintenance work in the changelog.
+
 ## 2026-06-27
 
 - Added a proof index for profile navigation.
