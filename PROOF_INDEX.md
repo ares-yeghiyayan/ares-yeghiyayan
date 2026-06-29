@@ -22,6 +22,12 @@ This profile points readers toward visible build discipline.
 - checkpoints
 - clean documentation habits
 - proof rhythm
+- quality before claim
+- review before proof
+
+## Proof Principle
+
+The strongest public signal is not volume. It is a repeatable rhythm of small work, review discipline, safe boundaries, and claims that stay behind evidence.
 
 ## Boundary
 
