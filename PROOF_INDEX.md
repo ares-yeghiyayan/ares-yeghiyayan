@@ -10,10 +10,11 @@ This profile points readers toward visible build discipline.
 ## Reading Order
 
 1. Start with the profile README.
-2. Review the profile scope.
-3. Open the public proof repository.
-4. Look for small work units, review notes, checkpoints, CI, and changelog rhythm.
-5. Prefer repeated discipline over broad claims.
+2. Open `REVIEW_PATH.md`.
+3. Review the profile scope.
+4. Open the public proof repository.
+5. Look for small work units, review notes, checkpoints, CI, and changelog rhythm.
+6. Prefer repeated discipline over broad claims.
 
 ## What To Look For
 
