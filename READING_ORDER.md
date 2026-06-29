@@ -5,10 +5,11 @@ This profile is designed to be read quickly.
 ## Start Here
 
 1. Read the profile README.
-2. Open the proof index.
-3. Review the profile scope.
-4. Open the public proof repository.
-5. Look for recent issue, pull request, CI, checkpoint, and changelog activity.
+2. Open `REVIEW_PATH.md`.
+3. Open the proof index.
+4. Review the profile scope.
+5. Open the public proof repository.
+6. Look for recent issue, pull request, CI, checkpoint, and changelog activity.
 
 ## What To Notice
 

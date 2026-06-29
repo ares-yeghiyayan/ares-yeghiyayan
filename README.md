@@ -58,6 +58,7 @@ This profile does not publish private architecture, internal naming systems, det
 
 ## Links
 
+- [Review path](REVIEW_PATH.md)
 - [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
 - [Reading order](READING_ORDER.md)
 - [Proof index](PROOF_INDEX.md)

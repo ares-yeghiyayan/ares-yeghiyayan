@@ -7,6 +7,7 @@ The profile repository should stay simple and focused on public proof of discipl
 ## Unreleased
 
 - Add lightweight profile changelog.
+- Add profile review path for faster public review.
 
 ## 2026-06-29
 
@@ -32,4 +33,4 @@ The profile repository should stay simple and focused on public proof of discipl
 
 ## Boundary
 
-This changelog should not include private architecture, internal names, product mechanics, detailed workflows, customer strategy, market positioning, private prompts, proprietary methods, performance claims, financial advice claims, or production readiness claims.
+Keep this changelog high-level and public-safe.
