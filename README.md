@@ -1,62 +1,65 @@
 # Ares Yeghiyayan
 
-Building a research and execution lab around decision quality, uncertainty, and disciplined software-building.
+**Founder @ Maximilion**  
+**AI-native decision infrastructure for institutional capital**
 
-I use GitHub as a public proof surface for learning discipline, documentation discipline, review rhythm, and small safe improvements.
+I am building Maximilion, a founder-led decision intelligence and risk infrastructure platform for institutional capital.
 
-The public surface is intentionally narrow. It shows how work is organized, documented, reviewed, and improved over time without exposing private research or sensitive implementation details.
+Maximilion is not a trading bot, dashboard, signal service, or generic AI wrapper. The thesis is simple: in institutional finance, intelligence is not enough. Decisions need to be explainable, governed, risk-aware, and auditable.
 
-## Current Focus
+```text
+Market Context → Strategy Logic → Risk Limits → Governance → Execution Readiness → Audit Trail
+```
 
-- Decision quality under uncertainty
-- Small reviewable build steps
-- Public proof of learning discipline
-- Documentation and testing discipline
-- Safe separation between public notes and deeper research
+## What I Am Building Toward
 
-## Operating Frame
+Maximilion is focused on the decision layer of institutional finance:
 
-The current GitHub cycle is organized around three public-safe operating themes:
+- decision quality under uncertainty
+- risk-aware strategy review
+- governance and approval workflows
+- decision memory and audit trails
+- repeatable founder execution proof
+- public-safe documentation discipline
 
-- proof density
-- review discipline
-- strategic clarity
+The long-term goal is to build financial infrastructure that helps institutions make better decisions under risk.
 
-The goal is to make the public surface easier to evaluate without turning the profile into a product announcement or a noisy activity feed.
+## Current Public Focus
 
-## Public Proof
+This GitHub profile is a public proof surface. It is intentionally narrow and public-safe.
 
-My public proof work is focused on visible execution habits:
+It shows:
 
-- clear issues before work starts
-- focused branches
-- small pull requests
-- high-level notes
-- safety boundaries
-- changelog discipline
-- reviewable documentation improvements
+- how work is organized
+- how decisions are documented
+- how public artifacts improve over time
+- how execution becomes traceable
+- how founder discipline compounds through small, reviewable steps
 
-The goal is to show repeatable founder discipline, not broad claims.
+It does not expose private architecture, proprietary logic, sensitive assumptions, private prompts, financial advice, trading claims, or production-readiness claims.
 
-## Build Rhythm
+## Proof Surface
 
-I prefer small work units that can be reviewed, improved, and merged safely.
+My public work is organized around three themes:
 
-Each public-safe step should improve one narrow artifact: a note, checklist, template, quality check, repository map, or operating boundary.
+| Theme | What it proves |
+| --- | --- |
+| **Proof density** | Visible artifacts instead of vague claims |
+| **Review discipline** | Small, bounded, reviewable changes |
+| **Strategic clarity** | Clear separation between public proof and private research |
 
-## Proof Principles
+## Operating Principles
 
-- Show execution discipline before scale.
-- Prefer small, traceable work over broad claims.
-- Keep sensitive assumptions and internal methods out of public notes.
-- Make safety boundaries part of the build process.
-- Treat documentation discipline and testing discipline as public proof assets.
+- Build in small units.
+- Keep public artifacts safe and reviewable.
+- Prefer clarity over noise.
+- Show execution before scale.
+- Turn learning into proof.
+- Protect the deeper Maximilion system while making founder discipline visible.
 
-## Safety Boundary
+## Public Reading Path
 
-This profile does not publish private architecture, internal naming systems, detailed workflows, sensitive assumptions, private prompts, proprietary methods, performance claims, financial advice claims, or production readiness claims.
-
-## Links
+Start here if you are reviewing the public surface:
 
 - [Review path](REVIEW_PATH.md)
 - [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
@@ -66,3 +69,7 @@ This profile does not publish private architecture, internal naming systems, det
 - [Profile audit](PROFILE_AUDIT.md)
 - [Profile scope](PROFILE_SCOPE.md)
 - [Profile changelog](CHANGELOG.md)
+
+---
+
+**Core thesis:** the next financial moat is not data or prediction. It is decision infrastructure under risk.
