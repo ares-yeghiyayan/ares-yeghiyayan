@@ -14,6 +14,16 @@ The public surface is intentionally narrow. It shows how work is organized, docu
 - Documentation and testing discipline
 - Safe separation between public notes and deeper research
 
+## 90-Day Operating Frame
+
+The next GitHub cycle is organized around three public-safe operating themes:
+
+- proof density
+- review discipline
+- strategic clarity
+
+The goal is to make the public surface easier to evaluate without turning the profile into a product announcement or a noisy activity feed.
+
 ## Public Proof
 
 My public proof work is focused on visible execution habits:
