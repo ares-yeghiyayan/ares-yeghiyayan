@@ -12,7 +12,16 @@ This profile points readers toward visible build discipline.
 1. Start with the profile README.
 2. Review the profile scope.
 3. Open the public proof repository.
-4. Look for issue, branch, pull request, CI, and changelog rhythm.
+4. Look for small work units, review notes, checkpoints, CI, and changelog rhythm.
+5. Prefer repeated discipline over broad claims.
+
+## What To Look For
+
+- clear boundaries
+- small reviewable changes
+- checkpoints
+- clean documentation habits
+- proof rhythm
 
 ## Boundary
 
