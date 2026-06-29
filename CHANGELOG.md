@@ -8,6 +8,10 @@ The profile repository should stay simple and focused on public proof of discipl
 
 - Add lightweight profile changelog.
 
+## 2026-06-29
+
+- Added a 90-day profile operating frame around proof density, review discipline, and strategic clarity.
+
 ## 2026-06-28
 
 - Added a profile daily noise rule to keep the profile repository clean.
