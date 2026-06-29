@@ -2,6 +2,8 @@
 
 This changelog records small, public-safe changes to the GitHub profile repository.
 
+The profile repository should stay simple and focused on public proof of disciplined work.
+
 ## Unreleased
 
 - Add lightweight profile changelog.
@@ -31,4 +33,4 @@ This changelog records small, public-safe changes to the GitHub profile reposito
 
 ## Boundary
 
-Keep this changelog public-safe.
+Keep this changelog high-level and public-safe.
