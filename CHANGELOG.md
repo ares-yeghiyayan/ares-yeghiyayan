@@ -10,7 +10,7 @@ The profile repository should stay simple and focused on public proof of discipl
 
 ## 2026-06-29
 
-- Added a 90-day profile operating frame around proof density, review discipline, and strategic clarity.
+- Added a profile operating frame around proof density, review discipline, and strategic clarity.
 
 ## 2026-06-28
 
