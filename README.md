@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Ares Yeghiyayan — proof-driven systems" width="100%" />
-</p>
+![Ares Yeghiyayan — Founder of Maximelion](assets/profile-banner.svg)
 
 # Ares Yeghiyayan
 
-Founder-led builder focused on public proof, decision quality, uncertainty, and execution discipline.
+Founder of **Maximelion**.
+
+I am building a public proof surface around decision quality, uncertainty, and execution discipline.
 
 This profile is not meant to look like a finished company page. It is a public proof surface for how I think, build, review, and improve work over time.
 
