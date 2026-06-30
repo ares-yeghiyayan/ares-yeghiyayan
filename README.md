@@ -1,4 +1,4 @@
-![Ares Yeghiyayan — Founder of Maximelion](https://raw.githubusercontent.com/ares-yeghiyayan/ares-yeghiyayan/main/assets/profile-banner.jpg)
+![Ares Yeghiyayan — Founder of Maximelion](assets/profile-banner.jpg)
 
 # Ares Yeghiyayan
 
