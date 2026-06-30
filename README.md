@@ -1,4 +1,4 @@
-![Ares Yeghiyayan — Founder of Maximelion](assets/profile-banner.png.png)
+![Ares Yeghiyayan — Founder of Maximelion](assets/ChatGPT%20Image%20Jun%2030,%202026,%2005_25_35%20PM.png)
 
 # Ares Yeghiyayan
 
