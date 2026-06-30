@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Ares Yeghiyayan — Founder of Maximilion" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Ares Yeghiyayan — proof-driven systems" width="100%" />
 </p>
 
 # Ares Yeghiyayan
 
-Founder of **Maximilion**.
-
-I am building proof-driven systems around decision quality, uncertainty, and execution discipline.
+Founder-led builder focused on public proof, decision quality, uncertainty, and execution discipline.
 
 This profile is not meant to look like a finished company page. It is a public proof surface for how I think, build, review, and improve work over time.
 
@@ -18,7 +16,7 @@ This profile is not meant to look like a finished company page. It is a public p
 - Founder-led execution discipline
 - Public-safe build rhythm
 
-## Start Here
+## Links
 
 - [Review path](REVIEW_PATH.md)
 - [Proof index](PROOF_INDEX.md)
@@ -31,6 +29,6 @@ This profile is not meant to look like a finished company page. It is a public p
 small work -> review discipline -> quality before claim -> safe boundary -> repeatable proof
 ```
 
-## Public Boundary
+## Safety Boundary
 
-This profile points to public-safe proof of disciplined work. It does not publish private architecture, internal naming systems, detailed workflows, strategy mechanics, private prompts, performance claims, financial advice claims, or production readiness claims.
+This profile points to public-safe proof of disciplined work. It does not publish private methods, sensitive assumptions, internal naming systems, detailed workflows, performance claims, financial advice claims, or readiness claims.
