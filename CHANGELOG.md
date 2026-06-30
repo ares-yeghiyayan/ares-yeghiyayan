@@ -8,6 +8,7 @@ The profile repository should stay simple and focused on public proof of discipl
 
 - Add lightweight profile changelog.
 - Add profile review path for faster public review.
+- Upgrade profile README with a founder-level public proof surface and banner asset.
 
 ## 2026-06-29
 
