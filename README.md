@@ -1,4 +1,4 @@
-![Ares Yeghiyayan — Founder of Maximelion](assets/profile-banner.png.png)
+
 
 # Ares Yeghiyayan
 
