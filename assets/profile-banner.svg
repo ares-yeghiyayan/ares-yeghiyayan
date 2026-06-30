@@ -1,27 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600" viewBox="0 0 1400 600" role="img" aria-labelledby="title desc">
   <title id="title">Ares Yeghiyayan profile banner</title>
-  <desc id="desc">Founder-led proof surface, decision quality, uncertainty, and execution discipline.</desc>
+  <desc id="desc">Founder of Maximelion, proof-driven systems, decision quality, uncertainty, and execution discipline.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#05080f"/>
-      <stop offset="0.45" stop-color="#071323"/>
-      <stop offset="1" stop-color="#02050a"/>
-    </linearGradient>
-    <radialGradient id="halo" cx="28%" cy="45%" r="42%">
-      <stop offset="0" stop-color="#123c63" stop-opacity="0.75"/>
-      <stop offset="0.55" stop-color="#071323" stop-opacity="0.25"/>
-      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#8b5b1a"/>
-      <stop offset="0.35" stop-color="#f2c46d"/>
-      <stop offset="0.68" stop-color="#c88a2a"/>
-      <stop offset="1" stop-color="#fff0b0"/>
-    </linearGradient>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05080f"/><stop offset="0.45" stop-color="#071323"/><stop offset="1" stop-color="#02050a"/></linearGradient>
+    <radialGradient id="halo" cx="28%" cy="45%" r="42%"><stop offset="0" stop-color="#123c63" stop-opacity="0.75"/><stop offset="0.55" stop-color="#071323" stop-opacity="0.25"/><stop offset="1" stop-color="#000000" stop-opacity="0"/></radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5b1a"/><stop offset="0.35" stop-color="#f2c46d"/><stop offset="0.68" stop-color="#c88a2a"/><stop offset="1" stop-color="#fff0b0"/></linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
   <rect width="1400" height="600" fill="url(#bg)"/>
   <rect width="1400" height="600" fill="url(#halo)"/>
@@ -41,7 +25,7 @@
   <text x="920" y="230" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="86" fill="#f5f7fb">Ares Yeghiyayan</text>
   <line x1="625" y1="282" x2="770" y2="282" stroke="url(#gold)" opacity="0.6"/>
   <line x1="1070" y1="282" x2="1285" y2="282" stroke="url(#gold)" opacity="0.6"/>
-  <text x="920" y="296" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" letter-spacing="8" fill="#d8a24a">Founder-Led <tspan font-weight="700" fill="#f3c56f">Proof Lab</tspan></text>
+  <text x="920" y="296" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" letter-spacing="8" fill="#d8a24a">Founder of <tspan font-weight="700" fill="#f3c56f">Maximelion</tspan></text>
   <text x="920" y="410" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="url(#gold)" filter="url(#softGlow)">Proof-Driven Systems</text>
   <line x1="660" y1="440" x2="1180" y2="440" stroke="#f0a83b" stroke-width="1.2" opacity="0.72"/>
   <text x="920" y="498" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" fill="#edf3ff" letter-spacing="2">Decision Quality  <tspan fill="#d9a34a">•</tspan>  Uncertainty  <tspan fill="#d9a34a">•</tspan>  Execution Discipline</text>
