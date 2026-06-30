@@ -1,4 +1,4 @@
-
+![Ares Yeghiyayan — Founder of Maximelion](assets/profile-banner.png.png)
 
 # Ares Yeghiyayan
 
@@ -6,7 +6,7 @@ Founder of **Maximelion**.
 
 I am building a public proof surface around decision quality, uncertainty, and execution discipline.
 
-This profile is not meant to look like a finished company page. It is a public proof surface for how I think, build, review, and improve work over time.
+This profile is a public proof surface for how I think, build, review, and improve work over time.
 
 ## Current Focus
 
@@ -31,4 +31,4 @@ small work -> review discipline -> quality before claim -> safe boundary -> repe
 
 ## Safety Boundary
 
-This profile points to public-safe proof of disciplined work. It does not publish private methods, sensitive assumptions, internal naming systems, detailed workflows, performance claims, financial advice claims, or readiness claims.
+This profile stays high-level, public-safe, and focused on disciplined work.
