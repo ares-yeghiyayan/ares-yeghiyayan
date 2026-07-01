@@ -2,46 +2,50 @@
 
 # Ares Yeghiyayan
 
-Founder of **Maximelion**.
+Founder of **Maximelion** — building AI-native decision infrastructure for finance.
 
-I am building a public proof surface around decision quality, uncertainty, and execution discipline.
+Maximelion is focused on decision quality, risk intelligence, and review discipline under uncertainty.
 
-## What I Am Building
+This GitHub is not a code archive.
+It is a public proof surface: small artifacts, reviewable progress, safe boundaries, and evidence before claims.
 
-Maximelion is a founder-led, AI-native financial intelligence project focused on decision quality, risk intelligence, and review discipline under uncertainty.
+## Start Here
 
-This profile is not a claim surface. It is a navigation layer for public-safe proof.
+Review the proof, not the claim.
 
-## How To Review This Profile
-
-Review the work through evidence, not ambition:
-
-1. Read this page.
-2. Open the review path.
-3. Check the proof index.
-4. Follow the public proof repository.
-5. Look for small work, safe boundaries, and repeated review discipline.
-
-## Current Focus
-
-- Decision quality under uncertainty
-- Proof-driven software building
-- Risk-aware systems
-- Founder-led execution discipline
-- Public-safe build rhythm
-
-## Public Proof Surfaces
-
+- [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
 - [Review path](REVIEW_PATH.md)
 - [Proof index](PROOF_INDEX.md)
 - [Reading order](READING_ORDER.md)
-- [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
 
-## Operating Principle
+## What I Am Building
+
+Maximelion is a founder-led financial intelligence project for decision quality under risk.
+
+The public surface shows how the work is framed, reviewed, bounded, and improved over time without exposing private architecture, customer data, or non-public strategy.
+
+## Current Focus
+
+- AI-native decision infrastructure
+- Decision quality under uncertainty
+- Risk-aware systems
+- Proof-driven software building
+- Founder-led execution discipline
+
+## How To Review This Profile
+
+Look for the pattern:
 
 ```text
 small work -> review discipline -> quality before claim -> safe boundary -> repeatable proof
 ```
+
+A serious review should ask:
+
+- Is the work easy to inspect?
+- Are the boundaries clear?
+- Are claims kept behind evidence?
+- Is there repeatable progress rather than one-time hype?
 
 ## Safety Boundary
 
