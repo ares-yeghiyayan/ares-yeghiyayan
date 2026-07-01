@@ -2,51 +2,46 @@
 
 # Ares Yeghiyayan
 
-Founder of **Maximelion** — building AI-native decision infrastructure for finance.
+I am building **Maximelion**: decision intelligence infrastructure for institutional capital.
 
-Maximelion is focused on decision quality, risk intelligence, and review discipline under uncertainty.
+Maximelion is being built for better decision quality under uncertainty, where risk, review, evidence, and execution discipline matter.
 
-This GitHub is not a code archive.
-It is a public proof surface: small artifacts, reviewable progress, safe boundaries, and evidence before claims.
+This GitHub is the public proof trail: small artifacts, clear review paths, safe boundaries, and visible progress before big claims.
 
 ## Start Here
 
-Review the proof, not the claim.
+Start here -> Review the proof -> Follow the build.
 
 - [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
 - [Review path](REVIEW_PATH.md)
 - [Proof index](PROOF_INDEX.md)
 - [Reading order](READING_ORDER.md)
 
-## How To Review This Profile
+## What To Understand In 5 Seconds
 
-A serious reader should be able to answer four questions quickly:
-
-1. Who is building?
-2. What is being built?
-3. Where is the public proof?
-4. What stays private and protected?
-
-Look for the pattern: small work, safe boundaries, review discipline, and repeatable progress.
+- **Who:** Ares Yeghiyayan, founder of Maximelion.
+- **What:** decision intelligence infrastructure for institutional capital.
+- **Why:** serious decisions need traceability, risk awareness, review discipline, and evidence.
+- **Proof:** public-safe artifacts, notes, changelog entries, and review paths.
 
 ## Current Focus
 
-- Decision quality under uncertainty
-- Proof-driven software building
+- Decision intelligence under uncertainty
 - Risk-aware systems
+- Proof-driven software building
 - Founder-led execution discipline
 - Public-safe build rhythm
 
-## Operating Principle
+## Review Signal
+
+Look for the pattern:
 
 ```text
-small work -> review discipline -> quality before claim -> safe boundary -> repeatable proof
+small artifact -> review -> boundary -> changelog -> repeat
 ```
+
+The strongest signal is not noise or volume. It is whether the work becomes clearer, safer, and more reviewable over time.
 
 ## Safety Boundary
 
-This profile stays high-level, public-safe, and focused on disciplined work. Private project work, sensitive architecture, customer data, and non-public strategy stay outside this surface.
-
-## Final CTA
-
-Start with the public proof repository. Judge the work by artifacts, review rhythm, and boundaries — not by claims.
+Public proof stays public-safe. Private architecture, sensitive strategy, customer data, credentials, and non-public Maximelion work stay outside this surface.
