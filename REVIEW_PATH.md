@@ -16,6 +16,16 @@ This page helps readers review the profile quickly.
 small work -> review discipline -> quality before claim -> safe boundary -> repeatable proof
 ```
 
+## Reviewer Questions
+
+A good review should ask:
+
+- Is the work small enough to inspect?
+- Is the boundary clear?
+- Are claims supported by visible artifacts?
+- Is there a repeatable rhythm rather than a one-time claim?
+- Does the profile point to proof without exposing private work?
+
 ## What To Look For
 
 - small reviewable changes
@@ -23,6 +33,7 @@ small work -> review discipline -> quality before claim -> safe boundary -> repe
 - safe boundaries
 - issue and pull request rhythm
 - clean changelog habits
+- public-safe proof navigation
 
 ## Boundary
 

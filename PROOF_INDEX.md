@@ -2,10 +2,23 @@
 
 This profile points readers toward visible build discipline.
 
+The goal is not to make large claims. The goal is to make small, public-safe work easy to review.
+
 ## Public Surfaces
 
 - Profile repository: a concise GitHub profile surface.
 - Public proof repository: a record of small, reviewable work.
+- Review path: a quick guide for how to inspect the profile.
+- Reading order: a short path through the public material.
+
+## Current Public Signal
+
+- clear profile positioning
+- public-safe proof navigation
+- small reviewable changes
+- boundary-first documentation
+- quality before claim
+- repeated review rhythm
 
 ## Reading Order
 
