@@ -2,25 +2,32 @@
 
 # Ares Yeghiyayan
 
-Founder of **Maximelion**.
+Founder of **Maximelion** — building AI-native decision infrastructure for finance.
 
-I am building a public proof surface around decision quality, uncertainty, and execution discipline.
+Maximelion is focused on decision quality, risk intelligence, and review discipline under uncertainty.
 
-## What I Am Building
+This GitHub is not a code archive.
+It is a public proof surface: small artifacts, reviewable progress, safe boundaries, and evidence before claims.
 
-Maximelion is a founder-led, AI-native financial intelligence project focused on decision quality, risk intelligence, and review discipline under uncertainty.
+## Start Here
 
-This profile is not a claim surface. It is a navigation layer for public-safe proof.
+Review the proof, not the claim.
+
+- [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
+- [Review path](REVIEW_PATH.md)
+- [Proof index](PROOF_INDEX.md)
+- [Reading order](READING_ORDER.md)
 
 ## How To Review This Profile
 
-Review the work through evidence, not ambition:
+A serious reader should be able to answer four questions quickly:
 
-1. Read this page.
-2. Open the review path.
-3. Check the proof index.
-4. Follow the public proof repository.
-5. Look for small work, safe boundaries, and repeated review discipline.
+1. Who is building?
+2. What is being built?
+3. Where is the public proof?
+4. What stays private and protected?
+
+Look for the pattern: small work, safe boundaries, review discipline, and repeatable progress.
 
 ## Current Focus
 
@@ -29,13 +36,6 @@ Review the work through evidence, not ambition:
 - Risk-aware systems
 - Founder-led execution discipline
 - Public-safe build rhythm
-
-## Public Proof Surfaces
-
-- [Review path](REVIEW_PATH.md)
-- [Proof index](PROOF_INDEX.md)
-- [Reading order](READING_ORDER.md)
-- [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
 
 ## Operating Principle
 
@@ -46,3 +46,7 @@ small work -> review discipline -> quality before claim -> safe boundary -> repe
 ## Safety Boundary
 
 This profile stays high-level, public-safe, and focused on disciplined work. Private project work, sensitive architecture, customer data, and non-public strategy stay outside this surface.
+
+## Final CTA
+
+Start with the public proof repository. Judge the work by artifacts, review rhythm, and boundaries — not by claims.
