@@ -7,6 +7,7 @@ The goal is not to make large claims. The goal is to make small, public-safe wor
 ## Public Surfaces
 
 - Profile repository: a concise GitHub profile surface.
+- Public status page: a quick view of what the profile currently proves and does not claim.
 - Public proof repository: a record of small, reviewable work.
 - Review path: a quick guide for how to inspect the profile.
 - Reading order: a short path through the public material.
@@ -23,11 +24,12 @@ The goal is not to make large claims. The goal is to make small, public-safe wor
 ## Reading Order
 
 1. Start with the profile README.
-2. Open `REVIEW_PATH.md`.
-3. Review the profile scope.
-4. Open the public proof repository.
-5. Look for small work units, review notes, checkpoints, CI, and changelog rhythm.
-6. Prefer repeated discipline over broad claims.
+2. Open `PUBLIC_STATUS.md`.
+3. Open `REVIEW_PATH.md`.
+4. Review the profile scope.
+5. Open the public proof repository.
+6. Look for small work units, review notes, checkpoints, CI, and changelog rhythm.
+7. Prefer repeated discipline over broad claims.
 
 ## What To Look For
 
