@@ -13,6 +13,7 @@ This GitHub is the public proof trail: small artifacts, clear review paths, safe
 Start here -> Review the proof -> Follow the build.
 
 - [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
+- [Public status](PUBLIC_STATUS.md)
 - [Review path](REVIEW_PATH.md)
 - [Proof index](PROOF_INDEX.md)
 - [Reading order](READING_ORDER.md)
