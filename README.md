@@ -14,6 +14,7 @@ Start here -> Review the proof -> Follow the build.
 
 - [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
 - [Public status](PUBLIC_STATUS.md)
+- [Profile route check](PROFILE_ROUTE_CHECK.md)
 - [Review path](REVIEW_PATH.md)
 - [Proof index](PROOF_INDEX.md)
 - [Reading order](READING_ORDER.md)
