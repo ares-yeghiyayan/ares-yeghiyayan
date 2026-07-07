@@ -6,15 +6,18 @@ This page gives a quick public-safe status view for the profile repository.
 
 - The profile explains the founder direction clearly.
 - The public proof route is easy to find.
+- The profile route check is visible from the front door.
 - The work is framed around evidence, risk awareness, review discipline, and boundary safety.
 - The profile avoids large claims without visible proof.
 
 ## How To Review
 
 1. Read `README.md` for the five-second overview.
-2. Read `PROOF_INDEX.md` for the review signal.
-3. Read `REVIEW_PATH.md` for reviewer questions.
-4. Open the public proof repository for visible notes, changelog entries, and safe build rhythm.
+2. Read `PUBLIC_STATUS.md` for what the profile currently signals.
+3. Read `PROFILE_ROUTE_CHECK.md` to verify the front-door route.
+4. Read `PROOF_INDEX.md` for the review signal.
+5. Read `REVIEW_PATH.md` for reviewer questions.
+6. Open the public proof repository for visible notes, changelog entries, and safe build rhythm.
 
 ## What This Status Does Not Claim
 
