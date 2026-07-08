@@ -13,6 +13,7 @@ This GitHub is the public proof trail: small artifacts, clear review paths, safe
 Start here -> Review the proof -> Follow the build.
 
 - [Public proof repository](https://github.com/ares-yeghiyayan/ares-public-proof)
+- [Latest public proof pulse](https://github.com/ares-yeghiyayan/ares-public-proof/blob/main/notes/daily/2026-07-08_public_proof_log.md)
 - [Public status](PUBLIC_STATUS.md)
 - [Profile route check](PROFILE_ROUTE_CHECK.md)
 - [Review path](REVIEW_PATH.md)
@@ -33,6 +34,10 @@ Start here -> Review the proof -> Follow the build.
 - Proof-driven software building
 - Founder-led execution discipline
 - Public-safe build rhythm
+
+## Latest Public Signal
+
+The newest public proof signal is a small daily pulse: route, boundary, and visible rhythm before larger claims.
 
 ## Review Signal
 
