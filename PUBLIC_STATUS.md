@@ -13,7 +13,7 @@ This page gives a quick public-safe status view for the profile repository.
 
 ## Latest Public Signal
 
-The newest visible signal is a small daily public proof pulse focused on route, boundary, reviewability, and restraint before larger claims.
+The newest visible signal is the 2026-07-11 daily public proof pulse focused on keeping the trail current, bounded, and reviewable without exposing private work.
 
 ## How To Review
 
